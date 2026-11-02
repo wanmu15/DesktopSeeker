@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 打包环境与产物
+.pack-venv/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
