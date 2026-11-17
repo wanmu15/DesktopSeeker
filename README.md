@@ -19,7 +19,11 @@
 
 ## 演示
 
-演示视频见 [demo/桌面搜索器_演示.mp4](demo/桌面搜索器_演示.mp4)。
+| 搜索 | 定位 |
+|---|---|
+| ![搜索](docs/screenshot_2_search.png) | ![定位](docs/screenshot_3_locate.png) |
+
+演示视频见 [demo/桌面搜索器_演示.mp4](demo/桌面搜索器_演示.mp4)（也可在 [Releases](https://github.com/wanmu15/DesktopSeeker/releases) 页面直接下载 exe 体验）。
 
 ## 使用方法
 
